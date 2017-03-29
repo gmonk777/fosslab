@@ -1,0 +1,58 @@
+Enter Operand 1
+12
+Enter Operand 2
+14
+1.+
+2.-
+3.*
+4./
+5.%
+1
+Sum: 26
+Press 0 to continue
+Press 1 to exit
+0
+1.+
+2.-
+3.*
+4./
+5.%
+2
+Difference: -2
+Press 0 to continue
+Press 1 to exit
+0
+1.+
+2.-
+3.*
+4./
+5.%
+3
+Product: 168
+Press 0 to continue
+Press 1 to exit
+0
+1.+
+2.-
+3.*
+4./
+5.%
+4
+Quotient: 0
+Press 0 to continue
+Press 1 to exit
+0
+1.+
+2.-
+3.*
+4./
+5.%
+5
+Remainder: 12
+Press 0 to continue
+Press 1 to exit
+1
+Press 0 to continue
+Press 1 to exit
+1
+

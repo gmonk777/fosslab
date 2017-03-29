@@ -1,0 +1,17 @@
+[gmon@localhost Expt_6]$ ./addnames.sh classlist gmon]
+The New Classlist File is : 
+gokul
+gmon
+arhem
+[gmon@localhost Expt_6]$ ./addnames.sh classlist 
+Enter Correct Number of Arguments : ./addnames.sh <classlist> <username>
+[gmon@localhost Expt_6]$ ./addnames.sh classfile amrith
+File Not Found
+[gmon@localhost Expt_6]$ ./addnames.sh classlist adu
+The New Classlist File is : 
+gokul
+gmon
+arhem
+adu
+
+	

@@ -1,0 +1,17 @@
+gmon@gmon-Inspiron-3543:~/Desktop/fosslab/exp8$ ./perl.pl
+Please enter a string on which you would like to perform the regular expression operations
+hello wolrd
+Please enter the Regular expression to be evaluated
+m
+The regular expression entered is a match operator
+There is a match found in the input string
+Enter 0 if you would like to continue with the program, Enter 1 to exit from the program
+0
+Please enter the Regular expression to be evaluated
+s
+The regular expression is a substitute operator
+The contents of the string now is hello wolrd
+
+Enter 0 if you would like to continue with the program, Enter 1 to exit from the program
+
+
